@@ -1,13 +1,24 @@
 - title: Home
   href: index.html
 
-- title: About
-  href: about.html
+- title: Research
+  href: research.html
+
+- title: Teaching
+  href: teaching.html
+
+- title: Publications
+  href: publications.html
+
+- title: Patents
+  href: patents.html
+
+- title: Professional Services
+  href: professional_services.html
 
 - title: Posts
   href: list/posts.html
 
 - title: Documentation
   href: list/projects.html
-
 
