@@ -5,7 +5,7 @@ narrow: true
 title: Publications
 ---
 
-# Journal Papers
+# Journal Articles
 
 **S Jeong**, HK Kim, ML Han, BI Kwak, *AERO: Automotive Ethernet Real-Time Observer for Anomaly Detection in In-Vehicle Networks*, IEEE Transactions on Industrial Informatics, Early Access, pp. 1--12, Nov 2023, doi: [10.1109/TII.2023.3324949](https://doi.org/10.1109/TII.2023.3324949).
 

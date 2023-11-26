@@ -1,7 +1,7 @@
 ---
 title: Documentation
 narrow: true
-permalink: list/projects.html
+permalink: list/documentation.html
 show_profile: true
 ---
 

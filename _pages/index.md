@@ -3,7 +3,7 @@ layout: defaults/page
 permalink: index.html
 narrow: true
 show_profile: true
-title: Seonghoon Jeong
+title: Seonghoon Jeong, Ph.D.
 ---
 
 <img alt="This is me; a moment with my wife, Christmas Eve Busan trip in 2022." src="rsrc/image/2022-12-24-moment-on-busan-trip.jpeg" alt="Drawing" style="margin-left: 20px; width: 50%;" align="right"/>
@@ -37,7 +37,7 @@ I have academic experience in teaching practical hacking and defense techniques,
 
 See more on my [teaching page](./teaching.html).
 
-### Recent Posts
+# Recent posts
 
 {% for post in site.posts limit:3 %}
 {% include components/post-card.html %}

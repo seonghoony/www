@@ -1,5 +1,5 @@
 - caption: E-mail
-  href: mailto:seonghoon@korea.ac.kr
+  href: "javascript:alert('seonghoon[a.t.]korea.ac.kr');"
   icon: entypo/mail.svg
 
 - caption: Google Scholar
