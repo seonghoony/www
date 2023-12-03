@@ -12,7 +12,7 @@ This page describes my external academic activities.
 
 in ITU-T SG17 (Security)/WP2/Q13 (Intelligent Transportation Systems)
 
-- **ITU-T X.1377** (formerly X.ipscv) *Guidelines for an intrusion prevention system for connected vehicles*, **Approved** in Oct 2022, [ITU-T work programme](https://www.itu.int/itu-t/workprog/wp_item.aspx?isn=17983)
+- **ITU-T X.1377** (formerly X.ipscv) *Guidelines for an intrusion prevention system for connected vehicles*, **Approved** in Oct 2022, [ITU-T work programme---itu.int](https://www.itu.int/itu-t/workprog/wp_item.aspx?isn=17983)
 
 # Program Committee
 

@@ -23,7 +23,7 @@ AR Kang, **SH Jeong**, A Mohaisen, HK Kim, *Multimodal Game Bot Detection using 
 
 # Conference and Workshop Papers
 
-**S Jeong**, M Ryu, H Kang, HK Kim, *Infotainment System Matters: Understanding the Impact and Implications of In-Vehicle Infotainment System Hacking with Automotive Grade Linux*, in ACM Conference on Data and Application Security and Privacy (ACM CODASPY 2023), pp. 201--212, Apr 2023, doi: [10.1145/3577923.3583650](https://doi.org/10.1145/3577923.3583650), **the best paper**
+**S Jeong**, M Ryu, H Kang, HK Kim, *Infotainment System Matters: Understanding the Impact and Implications of In-Vehicle Infotainment System Hacking with Automotive Grade Linux*, in ACM Conference on Data and Application Security and Privacy (ACM CODASPY 2023), pp. 201--212, Apr 2023, doi: [10.1145/3577923.3583650](https://doi.org/10.1145/3577923.3583650), **The Best Paper**
 
 **S Jeong**, E Park, KU Seo, JD Yoo, HK Kim, *MUVIDS: False MAVLink Injection Attack Detection in Communication for Unmanned Vehicles*, in International Workshop on Automotive and Autonomous Vehicle Security (AutoSec 2021 Workshop), pp. 1--6, Feb 2022, doi: [10.14722/autosec.2021.23036](https://dx.doi.org/10.14722/autosec.2021.23036)
 
@@ -41,3 +41,7 @@ AR Kang, **SH Jeong**, SY Ko, K Ren, A Mohaisen, *Transparency in the New gTLD E
 **SH Jeong**, HK Kim, J Woo, *The Big Data Analysis Framework of Information Security Policy based on Security Incidents*, in Journal of the Korea Society of Computer and Information vol. 22, no. 10, pp. 73--81, Oct 2017, doi: [10.9708/jksci.2017.22.10.073](https://dx.doi.org/10.9708/jksci.2017.22.10.073)
 
 **SH Jeong**, H Kim, S Shin, T Lee, HK Kim, *A Survey of Fraud Detection Research based on Transaction Analysis and Data Mining Technique*, in Journal of The Korea Institute of Information Security & Cryptology, vol. 25, no. 6, pp. 1525--1540, Dec 2015, doi: [10.13089/JKIISC.2015.25.6.1525](https://dx.doi.org/10.13089/JKIISC.2015.25.6.1525)
+
+# Domestic Conference
+
+**S Jeong**, *Toward Understanding Network Intrusion on Vehicles: An eXplainable IDS Analyzing Signals and Time-series Periodicity*, in Conference on Information Security and Cryptography-Winter 2023 (CISC-W'23), pp. 376--379, Dec. 2023, **Outstanding Paper Award** (정보보호학회장상-우수논문상)

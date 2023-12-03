@@ -5,7 +5,7 @@ narrow: true
 title: Patents
 ---
 
-**Summary.** I have a total of 8 distinct patent items, with 4 patents registered in Korea and several applications filed both internationally and domestically.
+**Summary.** I have a total of 8 distinct patent items, with 4 patents registered in Korea and several applications filed both internationally and at home.
 
 Apparatus and Method for Detecting Vehicle Intrusion
 - Korea, **Reg. No. 10-1853676**, Apr 2018

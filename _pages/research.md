@@ -14,7 +14,6 @@ As a postdoctoral research associate, I am currently involved in the following p
 - 가상화 기반 자율주행차 사이버훈련 환경 구축 및 콘텐츠 연구, 국가보안기술연구소, Apr 2023--Oct 2023
 
 # Projects (2015--2022)
-
 As a graduate student researcher, I have participated in the following projects under the supervision of [Prof. Huy Kang Kim](https://www.hksecurity.net/), my thesis and dissertation advisor:
 
 ## Vehicle cybersecurity
@@ -48,4 +47,5 @@ As a graduate student researcher, I have participated in the following projects 
 - System call 데이터의 filtering과 feature engineering을 통한 이상징후 탐지 패턴 생성, 주식회사 소테리아, Feb 2020--Jun 2020
 - 사이버 공격 예측 및 자산 위험도 정량적 평가 기법 연구, 국방과학연구소, Mar 2018--Dec 2018
 
-Plus one memorable project, which I am unable to disclose publicly.
+## System exploitation
+- One memorable project, which I am unable to disclose publicly.

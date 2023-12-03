@@ -12,13 +12,12 @@ title: Teaching
   - Excellent Teaching Award (우수강의상), top 20% of student course evaluation in Korea Univ.
 
 # Teaching Assistant
-With Prof. Huy Kang Kim
+Lectured by Prof. Huy Kang Kim
 
 - CYDF311: Attack & Defense---Theory and Practice, Spring 2021
 - IMS1004: Introduction Course for Information Security (Graduate School), Spring 2021
 
-
-With Prof. Kyounggon Kim
+Lectured by Prof. Kyounggon Kim
 - CYDF218: Cyber War, Fall 2018
 - ISEC401: Advanced Hacking Practice, Spring 2018
 - ITCS302: Hacking and Security, Spring 2018
@@ -28,7 +27,7 @@ With Prof. Kyounggon Kim
 - ISEC401: Advanced Hacking Practice, Spring 2017
 - ITCS302: Hacking and Security, Spring 2017
 
-With Dr. Sanghyun Cho, Chief Information Security Officer, NAVER Corp
+Lectured by Dr. Sanghyun Cho, Chief Information Security Officer, NAVER Corp
 - CYDF211: System Programming, Spring 2018
 
 # Special Lecture and Seminar
