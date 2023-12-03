@@ -7,9 +7,9 @@ title: Teaching
 
 # Instructor
 - CYDF311: Attack & Defense---Theory and Practice, Spring 2023
-  - Granite Tower Teaching Award (석탑강의상), top 5% of student course evaluation in Korea Univ.
+  - Granite Tower Teaching Award `석탑강의상`, top 5% of student course evaluation in Korea Univ.
 - AICS308: Reverse Engineering, Sejong Campus of Korea University, Spring 2022
-  - Excellent Teaching Award (우수강의상), top 20% of student course evaluation in Korea Univ.
+  - Excellent Teaching Award `우수강의상`, top 20% of student course evaluation in Korea Univ.
 
 # Teaching Assistant
 Lectured by Prof. Huy Kang Kim

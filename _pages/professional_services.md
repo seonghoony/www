@@ -19,7 +19,7 @@ in ITU-T SG17 (Security)/WP2/Q13 (Intelligent Transportation Systems)
 ## Cyber Security Challenge 2021---Infotainment Hacking and Defense
 
 A domestic event "사이버 보안 챌린지 2021: 자동차 해킹공격&방어"  
-Youtube---[Call for challenge (in Korean)](https://youtu.be/HS2PfBpwjU4), [CSC2021: the Final Round (in Korean)](https://youtu.be/E-ZTuWSg-JU) 
+Live feeds at Youtube---[Call for challenge (in Korean)](https://youtu.be/HS2PfBpwjU4), [CSC2021: the Final Round (in Korean)](https://youtu.be/E-ZTuWSg-JU) 
 
 Worked for:  
 **Competition design.** In-vehicle infotainment testbed setup, attack vector investigation, penetration test, event log collection framework for the final stage  
