@@ -7,9 +7,9 @@ title: Publications
 
 # Journal Articles
 
-**S Jeong**, HK Kim, ML Han, BI Kwak, *AERO: Automotive Ethernet Real-Time Observer for Anomaly Detection in In-Vehicle Networks*, IEEE Transactions on Industrial Informatics, Early Access, pp. 1--12, Nov 2023, doi: [10.1109/TII.2023.3324949](https://doi.org/10.1109/TII.2023.3324949).
+**S Jeong**, HK Kim, ML Han, BI Kwak, *AERO: Automotive Ethernet Real-Time Observer for Anomaly Detection in In-Vehicle Networks*, IEEE Transactions on Industrial Informatics, Vol. 20, No. 3, pp. 4651--4662, Mar 2024, doi: [10.1109/TII.2023.3324949](https://doi.org/10.1109/TII.2023.3324949).
 
-**S Jeong**, S Lee, H Lee, HK Kim, *X-CANIDS: Signal-Aware Explainable Intrusion Detection System for Controller Area Network-Based In-Vehicle Network*, IEEE Transactions on Vehicular Technology, Early Access, pp. 1--17, Oct 2023, doi: [10.1109/TVT.2023.3327275](https://doi.org/10.1109/TVT.2023.3327275).
+**S Jeong**, S Lee, H Lee, HK Kim, *X-CANIDS: Signal-Aware Explainable Intrusion Detection System for Controller Area Network-Based In-Vehicle Network*, IEEE Transactions on Vehicular Technology, Vol. 73, No. 3, pp. 3230--3246, Mar 2024, doi: [10.1109/TVT.2023.3327275](https://doi.org/10.1109/TVT.2023.3327275).
 
 Y Noh, **S Jeong**, HK Kim, *Trading Behind-the-Scene: Analysis of Online Gold Farming Network in Auction House System*, IEEE Transactions on Games, vol. 14, no. 3, pp. 423--434, Sep 2022, doi: [10.1109/TG.2021.3094054](https://dx.doi.org/10.1109/TG.2021.3094054).
 
