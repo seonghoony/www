@@ -9,7 +9,9 @@ title: Seonghoon Jeong, Ph.D.
 <img alt="This is me; a moment with my wife, Christmas Eve Busan trip in 2022." src="rsrc/image/2022-12-24-moment-on-busan-trip.jpeg" alt="Drawing" style="margin-left: 20px; width: 50%;" align="right"/>
 
 # Affiliation
-As of March 2023, I hold two positions at Korea University in Seoul, Republic of Korea:
+I am scheduled to change jobs on September 1, 2024.
+
+From March 2023 to August 2024, I held two positions at Korea University in Seoul, Republic of Korea:
 
 - Postdoctoral Research Associate in [Hacking and Countermeasure Research Lab.](https://ocslab.hksecurity.net/), Institute of Cyber Security & Privacy (ICSP)
 - Lecturer in Division of Smart Security
