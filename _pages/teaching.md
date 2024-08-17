@@ -7,6 +7,7 @@ title: Teaching
 
 # Instructor
 - CYDF311: Attack & Defense---Theory and Practice, Spring 2024
+  - [Course review from students](a/Spring24-CYDF311-Comment.pdf)
 - CYDF311: Attack & Defense---Theory and Practice, Spring 2023
   - Granite Tower Teaching Award `석탑강의상`, top 5% of student course evaluation in Korea Univ.
   - [Course review from students](a/Spring23-CYDF311-Comment.pdf)
