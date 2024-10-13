@@ -6,14 +6,18 @@ title: Teaching
 ---
 
 # Instructor
+- 21102530-001: Server Administration and Security, Fall 2024
+- 21102530-002: Server Administration and Security, Fall 2024
+- 21100720-003: Algorithms, Fall 2024
 - CYDF311: Attack & Defense---Theory and Practice, Spring 2024
-  - [Course review from students](a/Spring24-CYDF311-Comment.pdf)
+  - *A placeholder :-)*
+  - 4.95/5.00 [Course review from students](a/Spring24-CYDF311-Comment.pdf)
 - CYDF311: Attack & Defense---Theory and Practice, Spring 2023
   - Granite Tower Teaching Award `석탑강의상`, top 5% of student course evaluation in Korea Univ.
-  - [Course review from students](a/Spring23-CYDF311-Comment.pdf)
+  - 5.87/6.00 [Course review from students](a/Spring23-CYDF311-Comment.pdf)
 - AICS308: Reverse Engineering, Sejong Campus of Korea University, Spring 2022
   - Excellent Teaching Award `우수강의상`, top 20% of student course evaluation in Korea Univ.
-  - [Course review from students](a/Spring22-AICS308-Comment.pdf)
+  - 5.67/6.00 [Course review from students](a/Spring22-AICS308-Comment.pdf)
 
 # Teaching Assistant
 Lectured by Prof. Huy Kang Kim

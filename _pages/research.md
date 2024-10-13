@@ -5,13 +5,14 @@ narrow: true
 title: Research Projects
 ---
 
-# Projects (2023--present)
-As a postdoctoral research associate, I am currently involved in the following projects:
+# Projects (2023--Aug 2024)
+As a postdoctoral research associate, I have been participated in the following projects:
 
-- 자율주행차량의 차세대 내부 네트워크의 보안 및 초고속 무결성 부여 기술 개발, 정보통신기획평가원, Mar 2023--Present
-- 자동차 사이버보안 관리시스템 평가기술 및 보안위협 대응방안 기술 개발, 국토교통과학기술진흥원, Mar 2023--Present
-- 차세대보안 분야 챌린지 R&D 총괄 과제, 정보통신기획평가원, Apr 2023--Present
+- 자율주행차량의 차세대 내부 네트워크의 보안 및 초고속 무결성 부여 기술 개발, 정보통신기획평가원, Mar 2023--Feb 2024
+- 자동차 사이버보안 관리시스템 평가기술 및 보안위협 대응방안 기술 개발, 국토교통과학기술진흥원, Mar 2023--Feb 2024
+- 차세대보안 분야 챌린지 R&D 총괄 과제, 정보통신기획평가원, Apr 2023--Feb 2024
 - 가상화 기반 자율주행차 사이버훈련 환경 구축 및 콘텐츠 연구, 국가보안기술연구소, Apr 2023--Oct 2023
+- 4단계 BK21 스마트시티 정보보호학 교육연구단, 교육부&한국연구재단, Mar 2024--Aug 2024
 
 # Projects (2015--2022)
 As a graduate student researcher, I have participated in the following projects under the supervision of [Prof. Huy Kang Kim](https://www.hksecurity.net/), my thesis and dissertation advisor:
@@ -47,5 +48,5 @@ As a graduate student researcher, I have participated in the following projects 
 - System call 데이터의 filtering과 feature engineering을 통한 이상징후 탐지 패턴 생성, 주식회사 소테리아, Feb 2020--Jun 2020
 - 사이버 공격 예측 및 자산 위험도 정량적 평가 기법 연구, 국방과학연구소, Mar 2018--Dec 2018
 
-## System exploitation
+## System vulnerability exploitation
 - One memorable project, which I am unable to disclose publicly.
