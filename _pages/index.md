@@ -8,7 +8,7 @@ title: Seonghoon Jeong, Ph.D.
 
 <img alt="This is me; a moment with my wife, during a Busan trip on Christmas Eve, 2022." src="rsrc/image/2022-12-24-moment-on-busan-trip.jpeg" alt="Drawing" style="margin-left: 20px; width: 50%;" align="right"/>
 
-From September 2024, I work at Division of Artificial Intelligence Engineering, Sookmyung Women's University (SMWU), Seoul, Korea.
+From September 2024, I work at Division of Artificial Intelligence Engineering, Sookmyung Women's University (SMWU), Seoul, Republic of Korea, as an assistant professor.
 
 # Research goal
 I investigate and address cybersecurity challenges in Internet service applications through a data-driven approach that utilizes machine learning and deep learning methodologies. I have experience in analyzing a wide range of valuable datasets obtained from real-world services, including online gaming data, root DNS servers, mobile payment transaction data, and car hacking information.
@@ -26,7 +26,7 @@ Now I'm dealing with interpretations of conducted attacks on automotive Ethernet
 # Publications
 See more on my
 [publications](./publications.html) page and
-[Google Scholar](https://scholar.google.com/citations?user=9SOKjp4AAAAJ).
+[Google Scholar profile](https://scholar.google.com/citations?user=9SOKjp4AAAAJ).
 
 
 # Teaching
