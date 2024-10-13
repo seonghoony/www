@@ -15,7 +15,7 @@ I investigate and address cybersecurity challenges in Internet service applicati
 
 Recently, my focus has been on in-vehicle anomaly and intrusion detection---a research area that demands urgent attention, given the severe consequences of compromised vehicle systems. Specifically, I have developed a standardized intrusion prevention system for connected vehicles that offers practical solutions to both industry professionals and academic researchers.
 
-Now I'm dealing with interpretations of conducted attacks on automotive Ethernet.
+Now I'm dealing with an intrusion detection system that automatically interprets conducted attacks on automotive Ethernet.
 
 # Education
 
