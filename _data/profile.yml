@@ -1,5 +1,5 @@
 - caption: E-mail
-  href: "javascript:alert('seonghoon[a.t.]korea.ac.kr');"
+  href: "javascript:alert('seonghoon[a.t.]sookmyung.ac.kr');"
   icon: entypo/mail.svg
 
 - caption: Google Scholar
@@ -18,7 +18,7 @@
   href: https://ocslab.hksecurity.net
   icon: entypo/briefcase.svg
 
-- caption: Seoul
-  href: https://maps.app.goo.gl/VD2E51iZVPiQQALb7
+- caption: Yongsan-gu, Seoul
+  href: https://maps.app.goo.gl/AUvnvdLe4tM1W2ks6
   icon: entypo/location-pin.svg
 
