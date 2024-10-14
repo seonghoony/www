@@ -11,7 +11,7 @@ title: Seonghoon Jeong, Ph.D.
 From September 2024, I work at Division of Artificial Intelligence Engineering, Sookmyung Women's University (SMWU), Seoul, Republic of Korea, as an assistant professor.
 
 # Research goal
-I investigate and address cybersecurity challenges in Internet service applications through a data-driven approach that utilizes machine learning and deep learning methodologies. I have experience in analyzing a wide range of valuable datasets obtained from real-world services, including online gaming data, root DNS servers, mobile payment transaction data, and car hacking information.
+I investigate and address cybersecurity challenges in Internet service applications through a data-driven approach that utilizes machine learning and deep learning methodologies. I have experience in analyzing a wide range of valuable datasets obtained from real-world services, including massive online game, root DNS servers, mobile payment transaction data, and car hacking activities.
 
 Recently, my focus has been on in-vehicle anomaly and intrusion detection---a research area that demands urgent attention, given the severe consequences of compromised vehicle systems. Specifically, I have developed a standardized intrusion prevention system for connected vehicles that offers practical solutions to both industry professionals and academic researchers.
 
@@ -33,7 +33,7 @@ See more on my
 
 I have academic experience in teaching practical hacking and defense techniques, such as reverse engineering, system/network hacking, smart car hacking, and attack defense strategies (e.g., machine learning-based intrusion detection systems). I believe that it is essential to have an in-depth understanding of traditional computer science and engineering topics---including data structures, operating system concepts, system programming, data communications, and networking---so as to *really* understand security risks, threats, vulnerabilities, and proper countermeasures.
 
-At SMWU, I am teaching Linux Administration and Security as well as Fundamental Algorithms.
+At SMWU, I am teaching Linux Administration and Security as well as Introduction to Algorithms.
 
 See more on my [teaching page](./teaching.html).
 
