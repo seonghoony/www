@@ -28,11 +28,14 @@ Worked for:
 > I am grateful to [Han Eol Lee](https://ocslab.hksecurity.net/people/alumni#h.e6zyi287f7yo) and [Dong Young Kim](https://ocslab.hksecurity.net/people/alumni#h.hneqmuev9owl), who dedicated a significant amount of time preparing for the event with me.
 
 ## Maintainer of the in-vehicle intrusion datasets
-## CAN Dataset for intrusion detection (OTIDS)
+### 1. CAN Dataset for intrusion detection (OTIDS)
 Available at [ocslab.hksecurity.net](https://ocslab.hksecurity.net/Dataset/CAN-intrusion-dataset).
 
-### Automotive Ethernet Intrusion Dataset
+### 2. Automotive Ethernet Intrusion Dataset
 Available at IEEE DataPort. doi: [10.21227/1yr3-q009](https://dx.doi.org/10.21227/1yr3-q009)
+
+### 3. X-CANIDS Dataset (In-Vehicle Signal Dataset)
+Available at IEEE DataPort. doi: [10.21227/epsj-y384](https://dx.doi.org/10.21227/epsj-y384)
 
 ## Vulnerability disclosure
 ### CVE-2022-24595
