@@ -10,7 +10,7 @@ title: Teaching
 - 21102530-002: Server Administration and Security, Fall 2024
 - 21100720-003: Algorithms, Fall 2024
 - CYDF311: Attack & Defense---Theory and Practice, Spring 2024
-  - *A placeholder :-)*
+  - Granite Tower Teaching Award `석탑강의상`, top 5% of student course evaluation in Korea Univ.
   - 4.95/5.00 [Course review from students](a/Spring24-CYDF311-Comment.pdf)
 - CYDF311: Attack & Defense---Theory and Practice, Spring 2023
   - Granite Tower Teaching Award `석탑강의상`, top 5% of student course evaluation in Korea Univ.
