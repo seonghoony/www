@@ -3,8 +3,11 @@ title: Teaching Award in Korea University
 
 images:
   - /rsrc/image/2024-11-28-TeachingAward/ceremony1.jpeg 
-  - /rsrc/image/2024-11-28-TeachingAward/ceremony2.jpeg 
-  - /rsrc/image/2024-11-28-TeachingAward/ceremony3.png 
+  - /rsrc/image/2024-11-28-TeachingAward/ceremony2.jpeg
+  - /rsrc/image/2024-11-28-TeachingAward/+0I4A2059.jpg
+  - /rsrc/image/2024-11-28-TeachingAward/+0I4A2125.jpg
+  - /rsrc/image/2024-11-28-TeachingAward/+0I4A2130.jpg
+  # - /rsrc/image/2024-11-28-TeachingAward/ceremony3.png 
   - /rsrc/image/2024-11-28-TeachingAward/ceremony4.png 
   - /rsrc/image/2024-11-28-TeachingAward/ceremony5.png
 ---
