@@ -6,9 +6,14 @@ title: Teaching
 ---
 
 # Instructor
+- 21102524-003: Introduction to Computer Programming, Spring 2025
+- 21105541-001: Data-Driven Security (Graduate School), Spring 2025
 - 21102530-001: Server Administration and Security, Fall 2024
+  - 5.00/5.00
 - 21102530-002: Server Administration and Security, Fall 2024
+  - 5.00/5.00
 - 21100720-003: Algorithms, Fall 2024
+  - 4.95/5.00
 - CYDF311: Attack & Defense---Theory and Practice, Spring 2024
   - Granite Tower Teaching Award `석탑강의상`, top 5% of student course evaluation in Korea Univ.
   - 4.95/5.00 [Course review from students](a/Spring24-CYDF311-Comment.pdf)
