@@ -40,3 +40,11 @@ Generative Adversarial Network Model and Training Method to Generate Message ID 
 Lightweight Real-Time Anomaly Detection Method Using CAN Message Analysis and Neural Network Model
 - Korea, App. No. 10-2021-0174328, Dec 2021
 - PCT/KR2022/017082, Nov 2022
+
+Method for detecting anomalies of lidar point cloud data and related device
+- PCT/CN2021/114368, Aug 2021
+- US App. 18/584,834, Feb 2024
+
+Intrusion Detection Method and Apparatus
+- PCT/CN2021/114574, Aug 2021
+- US App. 18/587,159, Feb 2024
