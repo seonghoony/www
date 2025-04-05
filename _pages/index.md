@@ -33,7 +33,7 @@ See more on my
 
 I have academic experience in teaching practical hacking and defense techniques, such as reverse engineering, system/network hacking, smart car hacking, and attack defense strategies (e.g., machine learning-based intrusion detection systems). I believe that it is essential to have an in-depth understanding of traditional computer science and engineering topics---including data structures, operating system concepts, system programming, data communications, and networking---so as to *really* understand security risks, threats, vulnerabilities, and proper countermeasures.
 
-At SMWU, I am teaching Linux Administration and Security as well as Introduction to Algorithms.
+At SMWU, I previously taught Linux Administration and Security and Algorithms, and I am currently teaching Introduction to Computer Programming and Data-Driven Security.
 
 See more on my [teaching page](./teaching.html).
 
