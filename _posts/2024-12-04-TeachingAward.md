@@ -12,7 +12,7 @@ I am proud to announce that my previous lecture—CYDF311: Attack & Defense: The
     <img class="card-img-top" src="/rsrc/image/2024-12-04-TeachingAward.png"/>
     <div class="card-body bg-light">
         <div class="card-text">
-            Me on the left, with President Dong-One Kim on the right
+            Me on the left, with President Dong-One Kim on the right on Dec. 04, 2024
         </div>
     </div>
 </div>
