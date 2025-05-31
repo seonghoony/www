@@ -43,6 +43,6 @@ See more on my [teaching page](./teaching.html).
 <br>
 # Recent posts
 
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:5 %}
 {% include components/post-card.html %}
 {% endfor %}

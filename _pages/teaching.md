@@ -6,6 +6,8 @@ title: Teaching
 ---
 
 # Instructor
+- 21105590-001: System Security, Fall 2025, *Scheduled*
+- 21100720-003: Algorithms, Fall 2025, *Scheduled*
 - 21102524-003: Introduction to Computer Programming, Spring 2025
 - 21105541-001: Data-Driven Security (Graduate School), Spring 2025
 - 21102530-001: Server Administration and Security, Fall 2024
@@ -14,10 +16,10 @@ title: Teaching
   - 5.00/5.00
 - 21100720-003: Algorithms, Fall 2024
   - 4.95/5.00
-- CYDF311: Attack & Defense---Theory and Practice, Spring 2024
+- CYDF311: Attack & Defense---Theory and Practice, Korea University, Spring 2024
   - Granite Tower Teaching Award `석탑강의상`, top 5% of student course evaluation in Korea Univ.
   - 4.95/5.00 [Course review from students](a/Spring24-CYDF311-Comment.pdf)
-- CYDF311: Attack & Defense---Theory and Practice, Spring 2023
+- CYDF311: Attack & Defense---Theory and Practice, Korea University, Spring 2023
   - Granite Tower Teaching Award `석탑강의상`, top 5% of student course evaluation in Korea Univ.
   - 5.87/6.00 [Course review from students](a/Spring23-CYDF311-Comment.pdf)
 - AICS308: Reverse Engineering, Sejong Campus of Korea University, Spring 2022
