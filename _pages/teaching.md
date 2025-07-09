@@ -6,9 +6,10 @@ title: Teaching
 ---
 
 # Instructor
-- 21105590-001: System Security, Fall 2025, *Scheduled*
-- 21100720-003: Algorithms, Fall 2025, *Scheduled*
+- 21105590-001: System Security, Fall 2025
+- 21100720-003: Algorithms, Fall 2025
 - 21102524-003: Introduction to Computer Programming, Spring 2025
+  - 4.99/5.00
 - 21105541-001: Data-Driven Security (Graduate School), Spring 2025
 - 21102530-001: Server Administration and Security, Fall 2024
   - 5.00/5.00
